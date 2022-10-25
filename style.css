@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(218, 210, 210);
+}
+.div1{
+    border-top: 5px solid aqua;
+    height: 40px;
+    width: 33%;
+    background-color: white;
+    padding: 17px;
+
+}
+form{
+    
+    display: flex;
+}
+.input{
+  height: 30px;
+  width: 97%;
+  border-right: 0px solid none;
+
+}
+.btn{
+    margin-top: 0px;
+    height: 36px;
+    background-color: aqua;
+    border-color: aqua;
+   
+}
+.div2{
+    border-top: 5px solid aqua;
+    margin-top: 20px;
+    height: 200px;
+    width: 33%;
+    background-color: white;
+    padding: 17px; 
+}
+
+.firstin{
+    height: 30px;
+    width: 97%;
+    margin-bottom: 10px;
+}
