@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(218, 210, 210);
+    font-family: 'Poppins', sans-seri
+
+}
+div{
+    background-color:white;
+    height: 400px;
+    width: 40%;
+    border: 10px;
+  margin-left: 30%;
+  padding: 10px;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.log{
+   margin-left: 15px;
+    font-size: 16px;
+    height: 30px;
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid lightgray;
+}
+p{
+    margin-right: 20px;
+    font-size: 12px;
+    text-align: right;
+}
+.logbtn{
+    margin-left: 15px;
+    font-size: 16px;
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(48, 182, 226), rgb(49, 105, 209), rgb(114, 73, 124), rgb(176, 45, 180) );
+
+}
+      
